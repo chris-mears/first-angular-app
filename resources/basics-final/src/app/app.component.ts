@@ -5,11 +5,10 @@ import { Component } from '@angular/core';
   templateUrl: './app.component.html',
   // styleUrls: ['./app.component.css']
   styles: [`
-  h3 {
-    color: red;
-  }`]
+    h3 {
+      color: dodgerblue;
+    }
+  `]
 })
 export class AppComponent {
-  title = 'First Angular App';
-  name = '';
 }
